@@ -1,0 +1,6 @@
+{
+  "name": "INNOVEST CAPITAL",
+  "description": "Uganda's premium digital asset and partner-backed yield platform enabling secure, systematic wealth growth structures with 10% daily ROI contract cycles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
